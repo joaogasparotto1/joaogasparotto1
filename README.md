@@ -7,6 +7,7 @@ I´m an IT student aiming to become a software engineer.
 - 🌱 I’m currently learning React and React Native, both front-end languages, building projetcts 
 
 Technologies & Tools I Use:
+
 Languages: Beginner in Java, JavaScript, TypeScript
 Front-end: Beginner in HTML, CSS, React
 Back-end: Beginner in PostgreSQL
