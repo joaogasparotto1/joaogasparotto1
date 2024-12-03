@@ -16,6 +16,9 @@ Environments: Experience with Linux (basic use via terminal)
 Virtualization: Basic knowledge of Linux virtual machines
 
 Feel free to contact me:
+
 📫 Linkedin: https://www.linkedin.com/in/jo%C3%A3o-gasparotto-b6279a256/
+
 📫 Email: joaovictorgasparotto@gmail.com
+
 📞 +55 (51) 9 97254083.
