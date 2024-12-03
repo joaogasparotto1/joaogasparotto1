@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**joaogasparotto1/joaogasparotto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+I´m an IT student aiming to become a software engineer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on several projects, involvin multiple languages with the porpuse to encraise my skills, both on front and backend technologies.
+- 🌱 I’m currently learning React and React Native, both front-end languages, building projetcts 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies & Tools I Use:
+Languages: Beginner in Java, JavaScript, TypeScript
+Front-end: Beginner in HTML, CSS, React
+Back-end: Beginner in PostgreSQL
+Environments: Experience with Linux (basic use via terminal)
+Virtualization: Basic knowledge of Linux virtual machines
+
+Feel free to contact me:
+📫 Linkedin: https://www.linkedin.com/in/jo%C3%A3o-gasparotto-b6279a256/
+📫 Email: joaovictorgasparotto@gmail.com
+📞 +55 (51) 9 97254083.
