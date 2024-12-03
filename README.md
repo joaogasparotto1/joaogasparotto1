@@ -11,6 +11,7 @@ Technologies & Tools I Use:
 Languages: Beginner in Java, JavaScript, TypeScript
 Front-end: Beginner in HTML, CSS, React
 Back-end: Beginner in PostgreSQL
+
 Environments: Experience with Linux (basic use via terminal)
 Virtualization: Basic knowledge of Linux virtual machines
 
